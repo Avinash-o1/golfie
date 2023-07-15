@@ -280,7 +280,6 @@ video {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  /* by-AVI */
   background: linear-gradient(to left bottom, #119f3a, #ace022);
 }
 #green-div h4 {
